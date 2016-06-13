@@ -11,7 +11,7 @@ will be accepted: seek a reasonable tradeoff of efficiency and optimality.
 
 Compile code with:
 
-$ ocamlopt word_square_opt.ml
+$ ocamlopt word_square.ml
 
 To find a heuristic solution run it thus
 
